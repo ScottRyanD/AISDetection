@@ -1,0 +1,1 @@
+This directory contains raw data from the performance testing phase of the project, in which we inoculated real community samples with sequence data from various taxa. The data are grouped by which community was used.

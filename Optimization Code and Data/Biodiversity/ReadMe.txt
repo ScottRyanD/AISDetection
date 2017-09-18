@@ -1,0 +1,3 @@
+RunOnce.sh is the entrypoint into the program. Directories were hard-coded, so they'll need to be changed if you intend to use this code. The three directories here are three separate Java programs that the Bash scripts execute. ChecKBLASTCache is used to check the cached BLAST results. Optimizer compiled partially computed data into the final dataset. SampleRandomizer was used to generate the random subsamples used for optimization. 
+
+cluster_runner.sh and denoise_runner.sh are both used to actually process sequence data. These are the computational pipelines that employed UPARSE.

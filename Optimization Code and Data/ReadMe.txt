@@ -1,0 +1,1 @@
+This directory contains the code and data from the optimization phase of the project. We optimized for estimation of biodiversity and detection of AIS. The directory structure reflects this.
